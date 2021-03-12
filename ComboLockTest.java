@@ -32,11 +32,11 @@ public class ComboLockTest
 
             if(turningClockwise)
             {
-                lock.turnClockwise(ticks);
+                lock.turnRight(ticks);
             }
             else
             {
-                lock.turnCounterclockwise(ticks);
+                lock.turnLeft(ticks);
             }
             
             opened = lock.open();
