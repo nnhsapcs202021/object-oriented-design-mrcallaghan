@@ -12,7 +12,7 @@ import java.util.Scanner;
 /*
  * The FillInQuestion class extends (i.e., is a subclass of) the Question class.
  */
-public class FillInQuestion6 extends Question
+public class FillInQuestion6 extends Question6
 {
    /*
     * Do not declare instance variables for text and answer! The text and answer instance variables
