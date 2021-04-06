@@ -1,5 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
+import java.util.ArrayList;
 
 /**
 A test for the ComboLock class.
@@ -8,6 +9,7 @@ public class ComboLockTest
 {
     public static void main(String[] args)
     {
+        
         int secret1 = 6;
         int secret2 = 12;
         int secret3 = 24;
